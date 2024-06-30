@@ -1,0 +1,105 @@
+20 parameters to analyse the risk factors of allowing a loan to a customer :
+
+1. Credit Score
+   - Lower Bound: 300
+   - Upper Bound: 900
+   - Healthy Value: 750+
+
+2. Annual Income
+   - Lower Bound: ₹1,00,000
+   - Upper Bound: ₹75,00,000+
+   - Healthy Value: ₹5,00,000+
+
+3. Debt-to-Income Ratio (DTI)
+   - Lower Bound: 0%
+   - Upper Bound: 50%+
+   - Healthy Value: < 35%
+
+4. Employment Status
+   - Lower Bound: Unemployed
+   - Upper Bound: Full-time Employed
+   - Healthy Value: Full-time Employed
+
+5. Employment Length
+   - Lower Bound: 0 years
+   - Upper Bound: 30+ years
+   - Healthy Value: 2+ years
+
+6. Loan Amount Requested
+   - Lower Bound: ₹50,000
+   - Upper Bound: ₹3,00,00,000+
+   - Healthy Value: Depends on individual financial profile
+
+7. Loan Term
+   - Lower Bound: 12 months
+   - Upper Bound: 360 months (30 years)
+   - Healthy Value: Depends on loan type and individual preferences
+
+8. Monthly Housing Payment (Rent/Mortgage)
+   - Lower Bound: ₹0
+   - Upper Bound: ₹2,00,000+
+   - Healthy Value: < 30% of monthly income
+
+9. Total Monthly Debt Payments
+   - Lower Bound: ₹0
+   - Upper Bound: ₹2,00,000+
+   - Healthy Value: < 40% of monthly income
+
+10. Number of Existing Credit Accounts
+    - Lower Bound: 0
+    - Upper Bound: 30+
+    - Healthy Value: 5-15 accounts
+
+11. Credit Utilization Ratio
+    - Lower Bound: 0%
+    - Upper Bound: 100%
+    - Healthy Value: < 30%
+
+12. Age
+    - Lower Bound: 18 years
+    - Upper Bound: 70+ years
+    - Healthy Value: 25-55 years
+
+13. Savings/Investment Amount
+    - Lower Bound: ₹0
+    - Upper Bound: ₹5,00,00,000+
+    - Healthy Value: 3-6 months of expenses
+
+14. Years at Current Residence
+    - Lower Bound: 0 years
+    - Upper Bound: 30+ years
+    - Healthy Value: 2+ years
+
+15. Educational Level
+    - Lower Bound: High School Diploma
+    - Upper Bound: Doctorate Degree
+    - Healthy Value: Bachelor's Degree or higher
+
+16. Marital Status
+    - Lower Bound: Single
+    - Upper Bound: Married
+    - Healthy Value: Stable marital status (married or long-term relationship)
+
+17. Number of Dependents
+    - Lower Bound: 0
+    - Upper Bound: 10+
+    - Healthy Value: 0-3 dependents (depending on income level)
+
+18. Credit History Length
+    - Lower Bound: 0 years
+    - Upper Bound: 30+ years
+    - Healthy Value: 5+ years
+
+19. Recent Credit Inquiries (last 6 months)
+    - Lower Bound: 0
+    - Upper Bound: 10+
+    - Healthy Value: < 3 inquiries
+
+20. Bank Account Balance
+    - Lower Bound: ₹0
+    - Upper Bound: ₹5,00,00,000+
+    - Healthy Value: Sufficient to cover 3-6 months of expenses
+
+
+
+These values are aligned with the typical financial situation in India, considering average incomes and loan capacities. The healthy values indicate a financial profile that is likely to be considered low-risk by banks in India.
